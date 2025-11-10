@@ -28,3 +28,9 @@ This repository contains the initial implementation for the Flood Area Segmentat
 2. Install dependencies:  
    ```bash
    pip install torch torchvision matplotlib pillow tqdm
+
+##  Next Steps
+- Add data augmentation (flips, rotations)
+- Experiment with ResNet-based U-Net encoder
+- Add precision, recall, and Dice metrics
+
