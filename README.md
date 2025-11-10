@@ -3,7 +3,7 @@ Flood area segmentation using U-Net (Intermediate Update 1 for MLDL Project).
 
 # Flood Area Segmentation – MLDL Intermediate Update 1
 
-**Author:** Teja Reddy Mandadi  
+**Author:** Teja Reddy Mandadi , Visesh Bentula, Umapathi Konduri
 **Course:** Machine Learning & Deep Learning (MLDL)  
 **Date:** November 2025  
 
