@@ -83,8 +83,8 @@ pip install -r requirements.txt
 |-------------|--------|
 | Code Checkpoint | ✔ |
 | Intermediate Update 2 | ✔ |
-| Final Research Paper | ⏳ |
-| Final Presentation | ⏳ |
+| Final Research Paper | pending |
+| Final Presentation |  pending|
 
 ##  Contributors
 - **Visesh Bentula**
